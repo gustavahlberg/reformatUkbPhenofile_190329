@@ -1,0 +1,16 @@
+PLINK v2.00a2LM 64-bit Intel (29 Apr 2019)
+Options in effect:
+  --bfile ukb_efe
+  --export vcf id-paste=iid bgz  
+  --pgen /home/projects/cu_10039/data/UKBB/Exomes/ukb_efe_chr1_v1.bed
+  --psam /home/projects/cu_10039/data/UKBB/Exomes/ukb43247_efe_chr1_v1_s49959.fam
+  --pvar /home/projects/cu_10039/data/UKBB/Exomes/ukb_fe_exm_chrall_v1.bim
+
+Hostname: risoe-r08-cn250
+Working directory: /home/projects/cu_10039/projects/ManageUkbb/modules/reformatUkbPhenofile_190329
+Start time: Mon May 13 16:57:12 2019
+
+Error: Invalid --export parameter ' '. (Did you forget '--out'?)
+For more info, try "plink2 --help <flag name>" or "plink2 --help | more".
+
+End time: Mon May 13 16:57:12 2019

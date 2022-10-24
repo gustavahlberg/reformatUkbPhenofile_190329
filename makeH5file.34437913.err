@@ -1,0 +1,60 @@
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Warning messages:
+1: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+2: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+3: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+4: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+5: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+6: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+7: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+8: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+9: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+10: In h5checktypeOrOpenLoc(file, readonly = TRUE, fapl = NULL, native = native) :
+  An open HDF5 file handle exists. If the file has changed on disk meanwhile, the function may not work properly. Run 'h5closeAll()' to close all open HDF5 object handles.
+
+Attaching package: 'dplyr'
+
+The following objects are masked from 'package:stats':
+
+    filter, lag
+
+The following objects are masked from 'package:base':
+
+    intersect, setdiff, setequal, union
+
+Error in (function (classes, fdef, mtable)  : 
+  unable to find an inherited method for function 'readHTMLTable' for signature '"NULL"'
+Calls: source ... readHTMLTable -> mapply -> <Anonymous> -> <Anonymous>
+In addition: Warning message:
+XML content does not seem to be XML: '' 
+Execution halted
